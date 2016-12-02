@@ -1,4 +1,7 @@
-elect * from 04cars
+select * from 04cars
+GO
+
+select * from 05cars
 go
 
-bjjkgk
+//this is comment
