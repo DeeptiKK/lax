@@ -1,4 +1,4 @@
-select * from 04cars
+elect * from 04cars
 go
 
 bjjkgk
